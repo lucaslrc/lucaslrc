@@ -5,7 +5,7 @@
 
 [![Twitter: olucaslrc](https://img.shields.io/twitter/follow/olucaslrc?style=social)](https://twitter.com/olucaslrc)
 [![Linkedin: olucaslrc](https://img.shields.io/badge/-olucaslrc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olucaslrc/)](https://www.linkedin.com/in/olucaslrc/)
-[![GitHub lucaslrc](https://img.shields.io/github/followers/lucaslrc?label=follow&style=social)](https://github.com/lucaslrc)
+[![GitHub olucaslrc](https://img.shields.io/github/followers/lucaslrc?label=follow&style=social)](https://github.com/olucaslrc)
 
 ##
 <h4>💻 Programming Languages<h4>
