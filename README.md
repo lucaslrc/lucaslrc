@@ -1,5 +1,5 @@
 <h2>I'm Lucas! 🇧🇷 <img src="https://media.giphy.com/media/MCRQ0Nkn4KfeQDdM7N/giphy.gif" width="50"></h2>
-<p><em>System Analysis and Development at <a href="https://www.unicesumar.edu.br/home/">UniCesumar </a></br>Software Developer at <a href="https://atak.com.br/">ATAK </a>
+<p><em>System Analysis and Development at <a href="https://www.unicesumar.edu.br/home/">UniCesumar </a></br>Software Developer</a>
 </em></p>
 
 [![Twitter: olucaslrc](https://img.shields.io/twitter/follow/olucaslrc?style=social)](https://twitter.com/olucaslrc)
