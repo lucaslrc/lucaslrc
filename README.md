@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">A Backend Developer from Brazil</h3>
 
-- 🔭 I’m currently working on **D3 Company**
+- 🔭 I’m currently working on **globalsys**
 
-- 🌱 I’m currently learning **Node, .js, .ts**
+- 🌱 I’m currently learning **.NET Core**
 
 - 💬 Ask me about **C#, .NET, Node, Rust, Linux, Open Source, Aviation**
 
