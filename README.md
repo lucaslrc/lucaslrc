@@ -73,8 +73,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/olucaslrc/olucaslrc/blob/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
