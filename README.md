@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! I'm Lucas, i work as a Full Stack Software Developer.</h2>
+<h2 align="left">Hi 👋! I'm Lucas, i work as a Software Engineer.</h2>
 
 ###
 
